@@ -1,0 +1,8 @@
+{
+    "posts": [
+      { "id": 1, "title": "your title is here", "author": "mahaz" },
+      { "id": 2, "title": "yoyur name", "author": "saad" },
+      { "id": 3, "title": "json-server", "author": "saud" },
+      { "id": 4, "title": "this is just a heading", "author": "mohaviz" }
+    ]
+}
